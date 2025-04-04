@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30957888026",
+    "project_id": "netfliz-8d0c7",
+    "storage_bucket": "netfliz-8d0c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30957888026:android:7caf50089bbf1017cb27a3",
+        "android_client_info": {
+          "package_name": "mx.its.netflizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NCBhR_6QCPHbJ1m3VFrnSSeUI5ho1po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
